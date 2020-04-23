@@ -30,3 +30,7 @@ Good luck!
 If you finish early and are up for a challenge, try adding delete functionality.
 This should be in the form of a button within each TODO that removes that TODO
 when clicked. 
+
+
+# Note:
+Course Detail- [CS50's Mobile App Development with React Native by EdX](https://courses.edx.org/courses/course-v1:HarvardX+CS50M+Mobile/course/)
